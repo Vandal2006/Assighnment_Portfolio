@@ -1,0 +1,7 @@
+ul li {
+    list-style-type: square;
+    text-align: center;
+  }
+  body {
+    background: lightcyan;
+}
